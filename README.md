@@ -1,16 +1,19 @@
-## Hi there 👋
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg" />
+  <img src="./assets/header.svg" width="100%" alt="Certaldovo — 由小到大的 z z z z z z" />
+</picture>
 
-<!--
-**Certaldovo/Certaldovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/about-mobile.svg" />
+  <img src="./assets/about.svg" width="100%" alt="互动叙事、分支设计与文字游戏；正在打磨故事分支、线索反馈和阅读体验。" />
+</picture>
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/incense-mobile.svg" />
+  <img src="./assets/incense.svg" width="100%" alt="香火燃尽以后 / After the Incense Burns Out，持续创作中的互动文字游戏，源码私有。" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[查看项目仓库（私有）](https://github.com/Certaldovo/After-the-Incense-Burns-Out)
+
+<sub>公开试玩准备好后，将在这里更新。</sub>
+
