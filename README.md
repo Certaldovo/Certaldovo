@@ -5,4 +5,4 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/about-mobile.svg" />
-  <img src="./assets/about.svg" width="100%" alt="互动叙事、分支设计与文字游戏；正在打磨故事分支、线索反馈和阅读体验。" />
+  <img src="./assets/about.svg" width="100%" alt="这个项目可以用来搞家产·····不好我的秋招······那个项目可以用来搞家产······不好我的秋招······" />
