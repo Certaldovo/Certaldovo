@@ -6,3 +6,4 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/about-mobile.svg" />
   <img src="./assets/about.svg" width="100%" alt="这个项目可以用来搞家产·····不好我的秋招······那个项目可以用来搞家产······不好我的秋招······" />
+</picture>
